@@ -1,0 +1,15 @@
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\tempo-api.deps.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\tempo-api.runtimeconfig.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\tempo-api.runtimeconfig.dev.json
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\tempo-api.dll
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\bin\Debug\netcoreapp2.2\tempo-api.pdb
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.RazorAssemblyInfo.cache
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.RazorAssemblyInfo.cs
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.AssemblyInfoInputs.cache
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.AssemblyInfo.cs
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.RazorTargetAssemblyInfo.cache
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.dll
+C:\Users\Diego-armando\Desktop\Developer\tempo-api\tempo-api\obj\Debug\netcoreapp2.2\tempo-api.pdb
